@@ -1,10 +1,4 @@
-#------------------------------------------------------------
-#-- sampleset-list.txt
-#-- script to pull the initial sample sets from the website
-#-- make the script executable: chmod +x sampleset-list.txt
-#-- execute the script: wget -i /opt/env/sampleset-list.txt
-#-------------------------------------------------------------
-wget http://gccpraise.com/opensongv2/sets/SampleSet
-wget http://gccpraise.com/opensongv2/sets/SampleSet-Communion
-wget http://gccpraise.com/opensongv2/sets/SampleSet-NoGloriaPatri
-wget http://gccpraise.com/opensongv2/sets/SampleSet-NoGloriaPatriWCommunion
+http://gccpraise.com/opensongv2/sets/SampleSet
+http://gccpraise.com/opensongv2/sets/SampleSet-Communion
+http://gccpraise.com/opensongv2/sets/SampleSet-NoGloriaPatri
+http://gccpraise.com/opensongv2/sets/SampleSet-NoGloriaPatriWCommunion
