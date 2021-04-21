@@ -1,0 +1,7 @@
+#-- Build environment directory structure:
+#-- build-dir-structure
+mkdir /var/opt/scripts
+mkdir /var/opt/bulletin
+mkdir /var/opt/songs
+mkdir /var/opt/sets
+mkdir /var/opt/env
