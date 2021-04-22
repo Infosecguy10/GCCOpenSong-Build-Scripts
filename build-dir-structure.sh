@@ -22,6 +22,8 @@ wget -i /var/opt/scripts/pull-sampleset-list.txt
 
 #-- get the SSH keys
 cd /root/.ssh
+rm /root/.ssh/gcc_bot.pem
+rm /root/.ssh/gcc_bot.ppk
 wget -i /var/opt/scripts/pull-sshkeys.txt
 
 #-- get the Bot repo
