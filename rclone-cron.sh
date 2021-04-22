@@ -8,3 +8,4 @@ rclone sync /var/opt/songs/ gcc:/home/gccpraise/public_html/opensongv2/xml/
 rclone sync /var/opt/html/ gcc:/home/gccpraise/public_html/bulletin/
 echo "Completed rclone sync"
 exit
+#latest update to fix issues
