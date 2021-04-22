@@ -5,6 +5,7 @@ mkdir /var/opt/bulletin
 mkdir /var/opt/songs
 mkdir /var/opt/sets
 mkdir /var/opt/env
+mkdir /var/opt/html
 
 #-- pull the sample sets
 cd /var/opt/sets
