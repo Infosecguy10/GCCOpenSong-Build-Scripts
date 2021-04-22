@@ -14,3 +14,4 @@ wget -i /var/opt/scripts/pull-sampleset-list.txt
 #-- get the Bot repo
 cd /opt
 git clone https://github.com/Infosecguy10/GCCOpenSongBot.git
+cp /var/opt/env/.env /opt/GCCOpenSongBot
